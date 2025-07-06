@@ -40,7 +40,7 @@ test_dataset = datasets.CIFAR10(root=cfg.DATA_DIR, train=False, download=True, t
 ```
 python SAM_Resnet18.py
 python SAM_EfficientNet.py
-Ablation_Experiments.py
+python Ablation_Experiments.py
 ```
 
 ## 4.实验结果
