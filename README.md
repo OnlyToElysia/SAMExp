@@ -9,7 +9,7 @@
 |------------|----------------|
 | 操作系统    | Windows 11        | 
 | CPU        | AMD Ryzen 7 7735H |
-| 内存        | 8G          | 
+| 内存        | 16G          | 
 | GPU        | NVIDIA RTX 4060(Laptop,8G) | 
 | CUDA版本    | 12.8            | 
 | Python版本  | 3.10           | 
